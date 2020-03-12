@@ -5,16 +5,6 @@
     "name": "oPlayer",
     "eventList": [
         {
-            "id": "fef5e7d9-4526-461d-bb3d-a3e3287eede4",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "f3e4466c-a93f-43e8-b0a4-55de65451dff",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "92686254-295c-4c34-848e-f6c68f31d2c9"
-        },
-        {
             "id": "bd53dcb7-0b1e-4236-bd3f-53ed406e8c11",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -32,6 +22,16 @@
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
+            "m_owner": "92686254-295c-4c34-848e-f6c68f31d2c9"
+        },
+        {
+            "id": "80d6b991-eb39-4f12-8829-d57b4f9d5442",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 82,
+            "eventtype": 9,
             "m_owner": "92686254-295c-4c34-848e-f6c68f31d2c9"
         }
     ],
